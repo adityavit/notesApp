@@ -1,4 +1,6 @@
 notesApp
 ========
 
-Simple Notes application is express
+Simple Notes application is express.
+
+
